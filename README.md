@@ -6,5 +6,6 @@ Git・github基礎の練習で作った、自己紹介のサイトです。
 `index.html`をブラウザで開いてください。
 
 ## 使ってる技術
-- html
-- css
+- HTML
+- Css
+- Git
